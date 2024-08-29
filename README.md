@@ -1,4 +1,4 @@
-# flutter_snake
+# tekna_flutter_flame_game_dev_hackathon
 
 Game examples made with Flutter and Flame
 
